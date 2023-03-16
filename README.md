@@ -341,7 +341,7 @@ get_max() — напечатать максимальное число в сте
 
 <details>
 <summary>
-<b>Стек - Скобочная последовательность (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/H_bracket_sequence.py">H_bracket_sequence.py</a></b>)
+<b>Скобочная последовательность (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/H_bracket_sequence.py">H_bracket_sequence.py</a></b>)
 </summary>
 
 #### Условие: 
@@ -370,7 +370,7 @@ get_max() — напечатать максимальное число в сте
 
 <details>
 <summary>
-<b>Стек - Ограниченная очередь (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/I_limited_queue.py">I_limited_queue.py</a></b>)
+<b>Ограниченная очередь (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/I_limited_queue.py">I_limited_queue.py</a></b>)
 </summary>
 
 #### Условие: 
@@ -399,7 +399,7 @@ size() — вернуть размер очереди;
 
 <details>
 <summary>
-<b>Стек - Списочная очередь (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/J_list_queue.py">J_list_queue.py</a></b>)
+<b>Списочная очередь (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/J_list_queue.py">J_list_queue.py</a></b>)
 </summary>
 
 #### Условие: 
@@ -422,7 +422,7 @@ size() — вывести текущий размер очереди
 
 <details>
 <summary>
-<b>Стек - Дек (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/A_deque.py">A_deque.py</a></b>)
+<b>Дек (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/A_deque.py">A_deque.py</a></b>)
 </summary>
 
 #### Условие: 
@@ -449,7 +449,7 @@ Value — целое число, по модулю не превосходяще
 
 <details>
 <summary>
-<b>Стек - Калькулятор (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/B_calculator.py">B_calculator.py</a></b>)
+<b>Калькулятор (<a href="https://github.com/YourKeysAreMine/Basic_Algorithms/blob/main/basic_data_structures/B_calculator.py">B_calculator.py</a></b>)
 </summary>
 
 #### Условие: 
